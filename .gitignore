@@ -2,5 +2,10 @@
 .DS_Store
 **/.DS_Store
 
-# LaTeX sources (keep private for now)
-latex/
+
+*.aux
+*.log
+*.out
+*.tex
+*.bbl
+*.bib
