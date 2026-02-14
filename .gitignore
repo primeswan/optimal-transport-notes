@@ -1,0 +1,6 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# LaTeX sources (keep private for now)
+latex/
