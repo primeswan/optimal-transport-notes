@@ -1,11 +1,10 @@
 # macOS system files
 .DS_Store
 **/.DS_Store
-
-
 *.aux
 *.log
 *.out
 *.tex
 *.bbl
 *.bib
+*.synctex.gz
