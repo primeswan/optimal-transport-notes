@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Existence of Optimal Transport</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <h1>Existence of Optimal Transport</h1>
+
+  <p>
+    Here we show there exists an optimal transport plan.
+  </p>
+
+  <h2>Notes</h2>
+  <ul>
+    <li>
+      <a href="pdfs/existence-optimal-transport.pdf">
+        Existence of Optimal Transport
+      </a>
+      (March 2026)
+    </li>
+  </ul>
+
+  <p>
+    <a href="index.html">← Back to Optimal Transport</a>
+  </p>
+
+</body>
+</html>
